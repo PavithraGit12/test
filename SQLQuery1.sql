@@ -13,7 +13,7 @@ as
 begin
 DECLARE @id int
 set @id = 7
-select * from sample1
+select * from sampleq1
 where id=@id
 end
 GO
